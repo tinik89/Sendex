@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82766b43-f6bc-43b8-ad06-1ea6f7e73a56" name="oneModx" url="http://c0427.paas1.fra.modxcloud.com">
+        <fileTransfer host="c0427.paas1.fra.modxcloud.com" port="22" accessType="SFTP" password="dfc4dfdbdfdddfc9dfdedfd9dfcddfd3" username="c0427">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
